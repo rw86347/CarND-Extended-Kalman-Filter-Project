@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ExtendedKF" targetName="ExtendedKF" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="189e705c-8936-46d6-b017-3be13f809057" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Eigen/src/Core/ProductBase.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1485">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kalman_filter.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FusionEKF.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="147" column="55" lean-forward="true" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="673">
+              <caret line="110" column="26" lean-forward="true" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Eigen/src/Core/GeneralProduct.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8880">
+              <caret line="592" selection-start-line="592" selection-end-line="592" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/kalman_filter.cpp" />
+        <option value="$PROJECT_DIR$/src/Eigen/src/Core/CwiseBinaryOp.h" />
+        <option value="$PROJECT_DIR$/src/FusionEKF.cpp" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1493" />
+    <option name="y" value="763" />
+    <option name="width" value="1395" />
+    <option name="height" value="1326" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExtendedKF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarND-Extended-Kalman-Filter-Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ExtendedKF" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ExtendedKF" TARGET_NAME="ExtendedKF" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ExtendedKF" RUN_TARGET_NAME="ExtendedKF">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="189e705c-8936-46d6-b017-3be13f809057" name="Default Changelist" comment="" />
+      <created>1561953644210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561953644210</updated>
+      <workItem from="1561953646588" duration="265000" />
+      <workItem from="1562468856083" duration="2115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2380000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1493" y="763" width="1395" height="1326" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2535211" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23976608" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933166" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32915622" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32999164" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Eigen/src/Core/ProductBase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Eigen/src/Core/GeneralProduct.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8880">
+          <caret line="592" selection-start-line="592" selection-end-line="592" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kalman_filter.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Eigen/src/Core/CwiseBinaryOp.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1470">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="e#1506#1553#0" expanded="true" />
+            <element signature="e#5034#5103#0" expanded="true" />
+            <element signature="e#5138#5185#0" expanded="true" />
+            <element signature="e#7583#7630#0" expanded="true" />
+            <element signature="e#8208#8222#0" expanded="true" />
+            <element signature="e#8725#8739#0" expanded="true" />
+            <element signature="e#9104#9122#0" expanded="true" />
+            <element signature="e#9131#9154#0" expanded="true" />
+            <element signature="e#9505#9523#0" expanded="true" />
+            <element signature="e#9532#9555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FusionEKF.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="147" column="55" lean-forward="true" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="110" column="26" lean-forward="true" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
