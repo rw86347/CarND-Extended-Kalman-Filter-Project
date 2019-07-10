@@ -49,6 +49,17 @@ void KalmanFilter::Update(const VectorXd &z) {
 }
 
 void KalmanFilter::UpdateEKF(const VectorXd &z) {
+    float px = x_[0];
+    float py = x_[1];
+    float vx = x_[2];
+    float vy = x_[3];
+    
+    // If rho == 0, skip the update step to avoid dividing by zero.
+    // This is crude but should be fairly robust on our data set.
+    if( px == 0. && py == 0. )
+        return;
+    
+    
   /**
   TODO:
     * update the state by using Extended Kalman Filter equations

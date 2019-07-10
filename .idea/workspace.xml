@@ -11,9 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="189e705c-8936-46d6-b017-3be13f809057" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="189e705c-8936-46d6-b017-3be13f809057" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/src/FusionEKF.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="147" column="55" lean-forward="true" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
+              <caret line="147" column="55" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -63,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="673">
-              <caret line="110" column="26" lean-forward="true" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+            <state relative-caret-position="403">
+              <caret line="92" column="15" lean-forward="true" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -155,29 +153,29 @@
       <option name="presentableId" value="Default" />
       <updated>1561953644210</updated>
       <workItem from="1561953646588" duration="265000" />
-      <workItem from="1562468856083" duration="2115000" />
+      <workItem from="1562468856083" duration="2486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2380000" />
+    <option name="totallyTimeSpent" value="2751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1493" y="763" width="1395" height="1326" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2535211" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2535211" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23976608" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23976608" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933166" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32915622" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32999164" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32999164" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="CMake" order="12" />
@@ -237,7 +235,7 @@
     <entry file="file://$PROJECT_DIR$/src/FusionEKF.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="147" column="55" lean-forward="true" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
+          <caret line="147" column="55" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
@@ -246,8 +244,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="110" column="26" lean-forward="true" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+        <state relative-caret-position="403">
+          <caret line="92" column="15" lean-forward="true" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="15" />
         </state>
       </provider>
     </entry>
